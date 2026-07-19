@@ -20,7 +20,7 @@ This repository documents my internship journey at AI Lab 99.
 ## Internship Duration
 
 - Start Date:13 July 2026
-- End Date: 14 Aug 2026
+- End Date: 24 Aug 2026
 
 ## Technologies
 
