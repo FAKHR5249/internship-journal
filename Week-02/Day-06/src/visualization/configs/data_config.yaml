@@ -1,0 +1,23 @@
+# ==========================================
+# Data Configuration
+# ==========================================
+
+project_name: advanced-regression
+
+raw_data_path: data/raw/
+
+processed_data_path: data/processed/
+
+train_file: featured_taxi_data.parquet
+
+clean_file: clean_taxi_data.parquet
+
+prediction_file: reports/predictions.csv
+
+model_path: models/champion_model.joblib
+
+random_state: 42
+
+test_size: 0.20
+
+target_column: trip_duration_minutes

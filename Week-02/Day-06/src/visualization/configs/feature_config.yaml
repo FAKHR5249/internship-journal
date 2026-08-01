@@ -1,0 +1,49 @@
+# ==========================================
+# Feature Configuration
+# ==========================================
+
+target: trip_duration_minutes
+
+numeric_features:
+  - passenger_count
+  - trip_distance
+  - RatecodeID
+  - pickup_hour
+  - day_of_week
+  - month
+  - hour_sin
+  - hour_cos
+  - day_sin
+  - day_cos
+
+categorical_features:
+  - VendorID
+  - store_and_fwd_flag
+  - PULocationID
+  - DOLocationID
+  - payment_type
+  - pickup_borough
+  - dropoff_borough
+  - pickup_zone
+  - dropoff_zone
+
+binary_features:
+  - is_weekend
+  - is_peak_hour
+  - is_night
+  - same_borough
+  - airport_pickup
+  - airport_dropoff
+
+drop_features:
+  - tpep_pickup_datetime
+  - tpep_dropoff_datetime
+  - fare_amount
+  - total_amount
+  - tip_amount
+  - tolls_amount
+  - airport_fee
+  - Airport_fee
+  - congestion_surcharge
+  - improvement_surcharge
+  - source_file

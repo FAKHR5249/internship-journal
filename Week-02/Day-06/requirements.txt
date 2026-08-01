@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+pyarrow
+fastparquet
+scipy
+pytest
+jupyter
+notebook
+ipykernel
+pyyaml
