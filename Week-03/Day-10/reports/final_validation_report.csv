@@ -1,0 +1,7 @@
+Validation Check,Status
+Missing Values,Passed
+Duplicate Records,Failed
+Data Types,Passed
+Feature Consistency,Passed
+Scaling,Passed
+Encoding,Passed

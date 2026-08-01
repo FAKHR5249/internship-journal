@@ -1,0 +1,14 @@
+Feature Name,Purpose
+Customer_Age,Customer age
+Customer_Tenure,Customer loyalty
+Total_Children,Household children
+Family_Size,Family size
+Total_Spending,Total customer spending
+Total_Purchases,Purchase frequency
+Total_Campaign_Acceptance,Marketing response
+Average_Spending_Per_Purchase,Average spending
+Digital_Engagement,Online engagement
+Deal_Dependency,Discount dependency
+Preferred_Shopping_Channel,Preferred shopping channel
+Product_Preference,Favorite product
+Customer_Activity_Level,Overall customer activity
