@@ -1,0 +1,14 @@
+MODULE 7
+Customer Profiling Report
+
+Business Segments
+==============================
+
+Cluster 0
+Segment : Store-Oriented Traditional Customers
+Strategy : Maintain in-store engagement with periodic loyalty incentives.
+
+Cluster 1
+Segment : High-Value Store-Oriented Customers
+Strategy : Increase in-store promotions, loyalty rewards and cross-sell at checkout.
+
