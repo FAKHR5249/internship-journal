@@ -1,0 +1,46 @@
+
+==================================================
+Customer Segmentation Project Report
+==================================================
+
+Problem Statement
+-----------------
+Customer segmentation using unsupervised learning.
+
+Dataset
+-------
+Marketing Campaign Dataset
+
+Algorithms
+----------
+1. KMeans
+2. Hierarchical Clustering
+3. Gaussian Mixture Model
+4. DBSCAN
+
+Selected Features
+-----------------
+['Customer_Age', 'Income', 'Total_Spending', 'Recency', 'Customer_Tenure', 'Family_Size', 'Total_Children', 'Purchase_Frequency', 'Accepted_Campaigns', 'NumWebPurchases', 'NumStorePurchases', 'NumCatalogPurchases']
+
+Best Algorithm
+--------------
+KMeans
+
+Silhouette Score
+----------------
+0.2985
+
+Davies-Bouldin Index
+--------------------
+1.3738
+
+Generated Files
+---------------
+Reports
+Plots
+Models
+Pipeline
+
+Project Status
+--------------
+Completed Successfully
